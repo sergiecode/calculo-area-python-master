@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2024-04-19T10:37:59.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7POZ7cL7nHzvjV0y1SfL" version="24.2.5" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="934" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="vshzmgohAlNtwiOY8GRM-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vshzmgohAlNtwiOY8GRM-0" target="vshzmgohAlNtwiOY8GRM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vshzmgohAlNtwiOY8GRM-0" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vshzmgohAlNtwiOY8GRM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vshzmgohAlNtwiOY8GRM-1" target="vshzmgohAlNtwiOY8GRM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vshzmgohAlNtwiOY8GRM-1" value="&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;Mostrar mensaje: &quot;Por favor, ingrese el radio del círculo: &quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="150" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vshzmgohAlNtwiOY8GRM-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vshzmgohAlNtwiOY8GRM-3" target="vshzmgohAlNtwiOY8GRM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vshzmgohAlNtwiOY8GRM-3" value="&lt;span style=&quot;color: rgb(26, 26, 26); background-color: transparent;&quot;&gt;Definir y asignar a la variable area el resultado de π * radio^2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="320" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vshzmgohAlNtwiOY8GRM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vshzmgohAlNtwiOY8GRM-5" target="vshzmgohAlNtwiOY8GRM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vshzmgohAlNtwiOY8GRM-5" value="&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;Mostrar mensaje: &quot;El área del círculo con radio&quot;, radio, &quot;es:&quot;, area&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="480" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vshzmgohAlNtwiOY8GRM-7" value="Fin" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="630" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
